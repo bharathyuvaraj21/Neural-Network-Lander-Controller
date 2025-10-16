@@ -56,4 +56,4 @@ This project centers on developing an Artificial Neural Network (ANN) to autonom
 
 ---
 
-This README template ensures clear and professional communication of your rocket lander control project with all structural elements for easy understanding and collaboration.
+
